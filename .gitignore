@@ -1,2 +1,6 @@
 # Python bloat
 __pycache__
+tempCodeRunnerFile.*
+
+# Project artifacts
+log.bin
